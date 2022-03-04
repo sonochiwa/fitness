@@ -33,7 +33,6 @@
   - Язык Python
   - Фреймворк Django
   - БД PostgreSQL
-  - SQLAlchemy ORM
 - Фронтенд:
   - html, css, js
 Хранение файлов и изображений на сервере.
